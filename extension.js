@@ -2,7 +2,6 @@
 // Licence: GPLv2+
 
 const Main = imports.ui.main;
-const SessionMode = imports.ui.sessionMode;
 
 function init() {
 }
