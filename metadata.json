@@ -1,0 +1,24 @@
+{
+  "name": "Hide Date Clock",
+  "description": "Hides the clock",
+  "uuid": "hide-date-clock@rorra.com.ar",
+  "shell-version": [
+    "3.14",
+    "3.16",
+    "3.18",
+    "3.20",
+    "3.22",
+    "3.24",
+    "3.26",
+    "3.28",
+    "3.30",
+    "3.34",
+    "3.32",
+    "3.36",
+    "3.38",
+    "40",
+    "41",
+    "42"
+  ],
+  "version": 1
+}
